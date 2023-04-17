@@ -1,0 +1,19 @@
+body{
+    background-size: cover;
+}
+.heading{
+    color: white;
+}
+.note{
+    color: black;
+}
+.play_button{
+    background-color:darkred;
+    color: white;
+}
+canvas{
+    border: 5px solid rgb(10, 67, 102);
+    border-radius: 20px;
+    box-shadow: 5pc 5px 5px cornflowerblue;
+}
+
